@@ -35,7 +35,7 @@ public class Main {
         boolean comTurn =false;//ture is PC's turn, false is player
         boolean isKo = false;//ture is Ko, false is not
         /*set the Icons */
-	String direction = "./src/gogame/Icons/";
+	String direction = "./Icons/";
 	ImageIcon beginIcon = new ImageIcon(direction + "board.jpg");
 	ImageIcon whiteIcon = new ImageIcon(direction + "white.jpg");
 	ImageIcon blackIcon = new ImageIcon(direction + "black.jpg");
